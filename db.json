@@ -10,7 +10,8 @@
         "ReactJS",
         "All of the above"
       ],
-      "answer": "All of the above"
+      "answer": "All of the above",
+      "result": 0
     },
     {
       "id": "02",
@@ -22,7 +23,8 @@
         "React.js can render both on client and server side.",
         "All of the above"
       ],
-      "answer": "All of the above"
+      "answer": "All of the above",
+      "result": 0
     },
     {
       "id": "03",
@@ -34,7 +36,8 @@
         "The JSX in React.js makes code easy to read and write.",
         "The learning curve can be steep in React.js."
       ],
-      "answer": "The JSX in React.js makes code easy to read and write."
+      "answer": "The JSX in React.js makes code easy to read and write.",
+      "result": 0
     },
     {
       "id": "04",
@@ -46,7 +49,8 @@
         "npm install create-react-app",
         "npm install -f create-react-app"
       ],
-      "answer": "npx create-react-app my-app"
+      "answer": "npx create-react-app my-app",
+      "result": 0
     },
     {
       "id": "05",
@@ -58,7 +62,8 @@
         "Both A and B.",
         "None of the above."
       ],
-      "answer": "Virtual DOM"
+      "answer": "Virtual DOM",
+      "result": 0
     },
     {
       "id": "06",
@@ -70,7 +75,8 @@
         "To access props before rendering",
         "To fetch data from an API"
       ],
-      "answer": "To determine if a component should re-render"
+      "answer": "To determine if a component should re-render",
+      "result": 0
     },
     {
       "id": "07",
@@ -82,7 +88,8 @@
         "PureComponent implements shouldComponentUpdate with a shallow prop and state comparison",
         "PureComponent is deprecated"
       ],
-      "answer": "PureComponent implements shouldComponentUpdate with a shallow prop and state comparison"
+      "answer": "PureComponent implements shouldComponentUpdate with a shallow prop and state comparison",
+      "result": 0
     },
     {
       "id": "08",
@@ -94,7 +101,8 @@
         "Triggers additional warnings and checks for common mistakes",
         "Prevents state mutations"
       ],
-      "answer": "Triggers additional warnings and checks for common mistakes"
+      "answer": "Triggers additional warnings and checks for common mistakes",
+      "result": 0
     },
     {
       "id": "09",
@@ -106,7 +114,8 @@
         "To define custom propTypes for components",
         "To handle asynchronous data fetching"
       ],
-      "answer": "To group multiple elements without adding extra nodes to the DOM"
+      "answer": "To group multiple elements without adding extra nodes to the DOM",
+      "result": 0
     },
     {
       "id": "10",
@@ -118,7 +127,8 @@
         "To optimize expensive calculations by memoizing the result",
         "To handle browser events"
       ],
-      "answer": "To optimize expensive calculations by memoizing the result"
+      "answer": "To optimize expensive calculations by memoizing the result",
+      "result": 0
     },
     {
       "id": "11",
@@ -130,7 +140,8 @@
         "Mutating the state object directly",
         "Passing an object to setState()"
       ],
-      "answer": "Mutating the state object directly"
+      "answer": "Mutating the state object directly",
+      "result": 0
     },
     {
       "id": "12",
@@ -142,7 +153,8 @@
         "To forward refs from parent to child components",
         "To define default props for a component"
       ],
-      "answer": "To forward refs from parent to child components"
+      "answer": "To forward refs from parent to child components",
+      "result": 0
     },
     {
       "id": "13",
@@ -154,7 +166,8 @@
         "Controlled components store their state in the DOM",
         "Controlled components manage their state through React"
       ],
-      "answer": "Controlled components manage their state through React"
+      "answer": "Controlled components manage their state through React",
+      "result": 0
     },
     {
       "id": "14",
@@ -166,7 +179,8 @@
         "To subscribe to changes in context",
         "To handle user authentication"
       ],
-      "answer": "To manage complex state logic"
+      "answer": "To manage complex state logic",
+      "result": 0
     },
     {
       "id": "15",
@@ -178,7 +192,8 @@
         "Improves component encapsulation",
         "Enforces strict typing for props"
       ],
-      "answer": "Avoids prop drilling"
+      "answer": "Avoids prop drilling",
+      "result": 0
     },
     {
       "id": "16",
@@ -190,7 +205,8 @@
         "Mutating the state object directly",
         "Passing an object to setState()"
       ],
-      "answer": "Mutating the state object directly"
+      "answer": "Mutating the state object directly",
+      "result": 0
     },
     {
       "id": "17",
@@ -202,7 +218,8 @@
         "To forward refs from parent to child components",
         "To define default props for a component"
       ],
-      "answer": "To forward refs from parent to child components"
+      "answer": "To forward refs from parent to child components",
+      "result": 0
     },
     {
       "id": "18",
@@ -214,7 +231,8 @@
         "Controlled components store their state in the DOM",
         "Controlled components manage their state through React"
       ],
-      "answer": "Controlled components manage their state through React"
+      "answer": "Controlled components manage their state through React",
+      "result": 0
     },
     {
       "id": "19",
@@ -226,7 +244,8 @@
         "To subscribe to changes in context",
         "To handle user authentication"
       ],
-      "answer": "To manage complex state logic"
+      "answer": "To manage complex state logic",
+      "result": 0
     },
     {
       "id": "20",
@@ -238,7 +257,8 @@
         "Improves component encapsulation",
         "Enforces strict typing for props"
       ],
-      "answer": "Avoids prop drilling"
+      "answer": "Avoids prop drilling",
+      "result": 0
     }
   ]
 }
